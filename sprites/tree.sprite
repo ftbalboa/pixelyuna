@@ -1,0 +1,27 @@
+# Pine tree
+name: tree
+
+palette:
+  . transparent
+  g #27ae60
+  d #1e8449
+  t #6d4c2e
+  k #4a3520
+
+pixels:
+  .....gg.....
+  ....gggg....
+  ...gggggg...
+  ..ggggggdg..
+  .ggggggggdg.
+  ggggggggggdg
+  .gggggggggg.
+  ..gggggggg..
+  .gdgggggggg.
+  ggdggggggggg
+  gggggggggdgg
+  .gggggggggdg
+  ....tttt....
+  ....tkkt....
+  ....tttt....
+  ....tttt....

@@ -1,0 +1,16 @@
+{
+  "name": "pixelyuna",
+  "version": "0.1.0",
+  "description": "Pixel art sprite compiler — images are just bytes",
+  "type": "module",
+  "bin": {
+    "pixelyuna": "./src/cli.js"
+  },
+  "scripts": {
+    "build": "node src/cli.js compile sprites/ --out output/",
+    "build:sheet": "node src/cli.js sheet sprites/ --out output/spritesheet.png"
+  },
+  "keywords": ["pixel-art", "sprite", "gamedev"],
+  "license": "MIT",
+  "dependencies": {}
+}

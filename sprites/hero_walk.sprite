@@ -1,0 +1,85 @@
+# Hero walk cycle animation
+name: hero_walk
+fps: 6
+
+palette:
+  . transparent
+  k #1a1a2e
+  s #e2d4b7
+  h #c0392b
+  b #2c3e50
+  p #34495e
+  w #ecf0f1
+  n #d4a574
+
+frame: idle
+  ....hhhh....
+  ...hhhhhh...
+  ..hhhhhhkh..
+  ..ssssssss..
+  ..snswsnss..
+  ..ssssssss..
+  ...ssssss...
+  ....bbbb....
+  ...bbbbbb...
+  ..bbbwbbbb..
+  ..bbbbbbbb..
+  ..nnbbbbnn..
+  ..nn.bb.nn..
+  ..nn.bb.nn..
+  .nn..pp..nn.
+  .pp..pp..pp.
+
+frame: walk_1
+  ....hhhh....
+  ...hhhhhh...
+  ..hhhhhhkh..
+  ..ssssssss..
+  ..snswsnss..
+  ..ssssssss..
+  ...ssssss...
+  ....bbbb....
+  ...bbbbbb...
+  ..bbbwbbbb..
+  ..bbbbbbbb..
+  ..nnbbbbnn..
+  ...nnbbnn...
+  ..nn..nn....
+  .nn....pp...
+  .pp....pp...
+
+frame: walk_2
+  ....hhhh....
+  ...hhhhhh...
+  ..hhhhhhkh..
+  ..ssssssss..
+  ..snswsnss..
+  ..ssssssss..
+  ...ssssss...
+  ....bbbb....
+  ...bbbbbb...
+  ..bbbwbbbb..
+  ..bbbbbbbb..
+  ..nnbbbbnn..
+  ..nn.bb.nn..
+  ..nn.bb.nn..
+  ..pp.pp.pp..
+  ..pp.pp.pp..
+
+frame: walk_3
+  ....hhhh....
+  ...hhhhhh...
+  ..hhhhhhkh..
+  ..ssssssss..
+  ..snswsnss..
+  ..ssssssss..
+  ...ssssss...
+  ....bbbb....
+  ...bbbbbb...
+  ..bbbwbbbb..
+  ..bbbbbbbb..
+  ..nnbbbbnn..
+  ...nnbbnn...
+  ....nn..nn..
+  ...pp....nn.
+  ...pp....pp.

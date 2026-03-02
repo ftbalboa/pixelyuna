@@ -1,0 +1,20 @@
+# Heart pickup item
+name: heart
+
+palette:
+  . transparent
+  r #e74c3c
+  d #c0392b
+  w #ffffff
+
+pixels:
+  ..rr..rr..
+  .rrrr.rrrr.
+  rrrwrrrrrdr
+  rrrrrrrrrdr
+  rrrrrrrrrdr
+  .rrrrrrrrr.
+  ..rrrrrrr..
+  ...rrrrr...
+  ....rrr....
+  .....r.....
