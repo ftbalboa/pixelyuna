@@ -1,6 +1,8 @@
-# pixelyuna
+<p align="center">
+  <img src="assets/banner.png" alt="pixelyuna" width="488">
+</p>
 
-Pixel art sprite compiler for game development. Images are just bytes — no image AI, no designers, no npm dependencies.
+<p align="center">Pixel art sprite compiler for game development. Images are just bytes — no image AI, no designers, no npm dependencies.</p>
 
 <p align="center">
   <img src="assets/showcase.png" alt="pixelyuna showcase — mage, slime, chest, potion, gem, mushroom" />
