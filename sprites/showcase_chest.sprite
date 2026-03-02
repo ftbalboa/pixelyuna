@@ -1,0 +1,31 @@
+# Showcase: Treasure chest
+name: chest
+
+palette:
+  . transparent
+  k #1a1a2e
+  w #8b5e3c
+  d #6b3a1f
+  l #a0724e
+  g #f1c40f
+  y #f39c12
+  h #d4ac0d
+  m #7d6608
+
+pixels:
+  ................
+  ................
+  ....kkkkkkkk....
+  ...kllllllllk...
+  ..klwwwwwwwwlk..
+  ..kwwwwwwwwwwk..
+  ..kwwwlwwlwwwk..
+  ..kkkkkkkkkkkkk.
+  ..kddgggggdddk.
+  ..kddddhdddddk.
+  ..kddddkdddddk.
+  ..kddddddddddk.
+  ..kddddddddddk.
+  ..kkkkkkkkkkkkk.
+  ................
+  ................

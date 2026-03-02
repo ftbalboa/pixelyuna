@@ -2,6 +2,10 @@
 
 Pixel art sprite compiler for game development. Images are just bytes — no image AI, no designers, no npm dependencies.
 
+<p align="center">
+  <img src="assets/showcase.png" alt="pixelyuna showcase — mage, slime, chest, potion, gem, mushroom" />
+</p>
+
 Built entirely with Node.js and a from-scratch PNG encoder using only `zlib`.
 
 ## How it works

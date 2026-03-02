@@ -1,0 +1,30 @@
+# Showcase: Cute slime enemy
+name: slime
+
+palette:
+  . transparent
+  k #1a1a2e
+  g #2ecc71
+  l #58d68d
+  d #1e8449
+  w #ecf0f1
+  e #2c3e50
+  m #27ae60
+
+pixels:
+  ................
+  ......kkkk......
+  ....kkggggkk....
+  ...kgglgggggk...
+  ..kggllggggggk..
+  ..kgglgggggggk..
+  ..kggggggggggk..
+  .kgggwkggwkgggk.
+  .kgggeeggeegggk.
+  .kggggggggggggk.
+  .kggggddddggggk.
+  ..kgggggggggggk.
+  ..kkggggggggkk..
+  ...dkkkkkkkdk...
+  ................
+  ................
